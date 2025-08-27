@@ -14,7 +14,7 @@ __pycache__/
 .cache/
 
 # Dataset Files (Optional - Avoid pushing huge CSVs)
-*.csv
+
 *.tsv
 *.json
 
