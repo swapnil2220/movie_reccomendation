@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit Cache
+.streamlit/
+.cache/
+
+# Dataset Files (Optional - Avoid pushing huge CSVs)
+*.csv
+*.tsv
+*.json
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.swp
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Specific
+.vscode/
+.idea/
+
+# Pickle Files (Optional - If you want to regenerate model.pkl & movie_dict.pkl)
+*.pkl
