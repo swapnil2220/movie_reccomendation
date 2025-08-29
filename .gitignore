@@ -37,3 +37,5 @@ Thumbs.db
 
 # Pickle Files (Optional - If you want to regenerate model.pkl & movie_dict.pkl)
 *.pkl
+*.csv
+*.pkl
