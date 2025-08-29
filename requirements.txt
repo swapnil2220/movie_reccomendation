@@ -1,10 +1,6 @@
 pandas==2.2.2
 numpy==1.26.4
-# Machine Learning & Vectorization
-scikit-learn==1.5.0
 # Web App (Frontend + Backend)
 streamlit==1.37.0
-# Pickle Support for Model & Similarity Saving
-joblib==1.4.2
 # TMDB API Integration (Optional if you want movie posters)
 requests==2.32.3
