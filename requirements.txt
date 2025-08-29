@@ -1,6 +1,4 @@
-pandas==2.2.2
-numpy==1.26.4
-# Web App (Frontend + Backend)
-streamlit==1.37.0
-# TMDB API Integration (Optional if you want movie posters)
-requests==2.32.3
+streamlit==1.25.0
+pandas==1.5.3
+numpy==1.24.3
+requests==2.31.0
