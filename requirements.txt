@@ -1,25 +1,10 @@
-
 pandas==2.2.2
 numpy==1.26.4
-
 # Machine Learning & Vectorization
 scikit-learn==1.5.0
-
 # Web App (Frontend + Backend)
 streamlit==1.37.0
-
-# Visualization (Optional but useful for EDA)
-matplotlib==3.9.1
-seaborn==0.13.2
-
 # Pickle Support for Model & Similarity Saving
 joblib==1.4.2
-
 # TMDB API Integration (Optional if you want movie posters)
 requests==2.32.3
-
-# For Handling Warnings During EDA
-packaging==24.0
-
-# If Working With Kaggle Datasets (Optional)
-kaggle==1.6.12
